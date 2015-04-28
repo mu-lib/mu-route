@@ -1,0 +1,17 @@
+{
+  "name": "mu-route",
+  "main": "main.js",
+  "description": "Micro Route",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "node_modules",
+    "test"
+  ],
+  "devDependencies": {
+    "requirejs": "^2.1"
+  }
+}
